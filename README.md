@@ -7,7 +7,7 @@ rd/s/q D:\
 
 ======================================================
 
-Unfortunate Restart
+Unfortunate Restart:-
 @echo off
 shutdown -r -f -t 00
 
